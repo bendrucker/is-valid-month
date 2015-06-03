@@ -32,4 +32,4 @@ The month is only valid if it is an integer between 1 and 12. Any other values a
 
 ## License
 
-MIT © [Ben Drucker](http://bendrucker.m/,e)
+MIT © [Ben Drucker](http://bendrucker.me)
