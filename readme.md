@@ -1,4 +1,4 @@
-# is-valid-month [![Build Status](https://travis-ci.org/bendrucker/is-valid-month.svg?branch=master)](https://travis-ci.org/bendrucker/is-valid-month)
+# is-valid-month [![Build Status](https://travis-ci.org/bendrucker/is-valid-month.svg?branch=master)](https://travis-ci.org/bendrucker/is-valid-month) [![Greenkeeper badge](https://badges.greenkeeper.io/bendrucker/is-valid-month.svg)](https://greenkeeper.io/)
 
 > Check if a number is a valid month
 
